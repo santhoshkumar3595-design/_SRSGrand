@@ -1,0 +1,7 @@
+{
+  "name": "SRS Grand Hotel",
+  "description": "Premium hotel management system for SRS Grand staff and customers.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}

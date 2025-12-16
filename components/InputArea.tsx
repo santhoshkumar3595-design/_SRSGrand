@@ -1,0 +1,1 @@
+// Component removed for Hotel OS
